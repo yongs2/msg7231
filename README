@@ -1,0 +1,5 @@
+This a mediastreamer2 plugin adding support for G.723.1 codec.
+It is known to work with linphone>=3.0.0
+
+It is based on the msg723.acm: (Windows 7 64 bits)
+	- cp msg723.acm C:\Windows\SysWOW64\msg723.acm 
